@@ -3,7 +3,7 @@
 --*  a small fix to change used protocol to HTTPS *
 --*                                               *
 --*   If you see this the patch has been applied  *
---*        succesfully to all computers now       *
+--*       successfully to all computers now.      *
 --*************************************************
 
 local function printUsage()
